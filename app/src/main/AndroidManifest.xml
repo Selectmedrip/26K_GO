@@ -13,6 +13,9 @@
         android:theme="@style/Theme._26K_GO"
         tools:targetApi="31">
         <activity
+            android:name=".Shop_Order"
+            android:exported="false" />
+        <activity
             android:name=".Music_Shop"
             android:exported="false" />
         <activity
